@@ -64,7 +64,7 @@ The **Product Analysis** page provides a deeper view of product- and category-le
 
 ### Product Analysis
 
-![Superstore Product Analysis](Product.png)
+![Superstore Product Analysis](Product-analysis.png)
 
 ## Project Files
 
